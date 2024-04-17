@@ -1,7 +1,14 @@
-# Material Weather Icons
+<div align="center">
+  <img width="200" height="200" src="content">
+  <h1>Material Weather Icons</h1>
+</div>
 
 ### About
 A free and open source weather icon pack, designed to work well with Material Design components. While many icon packs are over simplified (eg. Google's weather icons) these icons aim to strike a balance between simplicity and detail. They utilize large, flat shapes and the [Material Design color pallet](https://htmlcolorcodes.com/color-chart/material-design-color-chart/).
+
+### Icons
+
+<img src="content">
 
 ### Intergration
 
