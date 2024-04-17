@@ -26,3 +26,7 @@ Here is an example of how all the WMO codes provided by Open Mateo could be disp
 | 56, 57, 66, 67, 77 | <img width="50" height="50" src="Icons/sleet_day_night.svg"> |
 | 95 | <img width="50" height="50" src="Icons/thunderstorm_day_night.svg"> |
 | 96, 99 | <img width="50" height="50" src="Icons/hail_day_night.svg"> |
+
+### License
+
+ Material You Mockups is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
