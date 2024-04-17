@@ -8,7 +8,7 @@ A free and open source weather icon pack, designed to work well with Material De
 
 ### Icons
 
-<img src="content">
+<img src="Weather icons.svg">
 
 ### Intergration
 
