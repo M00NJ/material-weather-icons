@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="200" height="200" src="content">
+  <img width="200" height="200" src="Icons/rain_day_night.svg">
   <h1>Material Weather Icons</h1>
 </div>
 
