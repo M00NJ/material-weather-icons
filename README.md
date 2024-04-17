@@ -29,4 +29,4 @@ Here is an example of how all the WMO codes provided by Open Mateo could be disp
 
 ### License
 
- Material You Mockups is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+ Material Weather Icons is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
