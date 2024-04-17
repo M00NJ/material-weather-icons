@@ -16,13 +16,13 @@ Here is an example of how all the WMO codes provided by Open Mateo could be disp
 
 |  WMO code | Icon |
 | ------------- | ------------- |
-| 0, 1 | Content |
-| 2 | Content |
-| 3 | Content |
-| 45, 48 | Content |
-| 61, 63, 65, 80, 81, 82 | Content |
-| 51, 53, 55 | Content |
-| 71, 73, 75, 85, 86 | Content |
-| 56, 57, 66, 67, 77 | Content |
-| 95 | Content |
-| 96, 99 | Content |
+| 0, 1 | <img width="50" height="50" src="Icons/clear_day.svg">  <img width="50" height="50" src="Icons/clear_night.svg"> |
+| 2 | <img width="50" height="50" src="Icons/partly_cloudy_day.svg"> <img width="50" height="50" src="Icons/partly_cloudy_night.svg"> |
+| 3 | <img width="50" height="50" src="Icons/cloudy_day_night.svg"> |
+| 45, 48 | <img width="50" height="50" src="Icons/fog_day_night.svg"> |
+| 61, 63, 65, 80, 81, 82 | <img width="50" height="50" src="Icons/rain_day_night.svg"> |
+| 51, 53, 55 | <img width="50" height="50" src="Icons/drizzle_day_night.svg"> |
+| 71, 73, 75, 85, 86 | <img width="50" height="50" src="Icons/snow_day_night.svg"> |
+| 56, 57, 66, 67, 77 | <img width="50" height="50" src="Icons/sleet_day_night.svg"> |
+| 95 | <img width="50" height="50" src="Icons/thunderstorm_day_night.svg"> |
+| 96, 99 | <img width="50" height="50" src="Icons/hail_day_night.svg"> |
